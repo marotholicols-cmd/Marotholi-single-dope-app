@@ -1,0 +1,10 @@
+{
+  "name": "MAROTHOLI GRINDERS ENTERPRISE SINGLE DOPE APP A2026/39012",
+  "short_name": "MAROTHOLI",
+  "description": "SINGLE DOPE APP - Send, Withdraw, Subscribe, Redeem, Download, Post, Stream, Live, Read, Watch. Till 59070688 1G=M10 0.45G artist + 0.25G platform 1000 views M4500",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080312",
+  "theme_color": "#10FF8B",
+  "icons": [{"src": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png", "sizes": "512x512", "type": "image/png"}]
+}
